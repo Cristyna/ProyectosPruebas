@@ -33,10 +33,10 @@ public class Main {
 		arrayEnteros[9]=9;
 		//arrayEnteros[10]=10;//esta posicion no existe te has pasado las dimensiones
 		
-		Cliente[] clientes = new Cliente[3];
-		clientes [0] = cliente1;
-		clientes [1] = cliente2;
-		clientes [2] = cliente3;
+//		Cliente[] clientes = new Cliente[3];
+//		clientes [0] = cliente1;
+//		clientes [1] = cliente2;
+//		clientes [2] = cliente3;
 		
 	}
 
